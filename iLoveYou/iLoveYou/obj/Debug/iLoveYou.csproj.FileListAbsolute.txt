@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\iLoveYou\iLoveYou\bin\Debug\iLoveYou.exe.config
+E:\Visual Studio Projects\iLoveYou\iLoveYou\bin\Debug\iLoveYou.exe
+E:\Visual Studio Projects\iLoveYou\iLoveYou\bin\Debug\iLoveYou.pdb
+E:\Visual Studio Projects\iLoveYou\iLoveYou\obj\Debug\iLoveYou.csprojAssemblyReference.cache
+E:\Visual Studio Projects\iLoveYou\iLoveYou\obj\Debug\iLoveYou.Properties.Resources.resources
+E:\Visual Studio Projects\iLoveYou\iLoveYou\obj\Debug\iLoveYou.csproj.GenerateResource.cache
+E:\Visual Studio Projects\iLoveYou\iLoveYou\obj\Debug\iLoveYou.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\iLoveYou\iLoveYou\obj\Debug\iLoveYou.exe
+E:\Visual Studio Projects\iLoveYou\iLoveYou\obj\Debug\iLoveYou.pdb
+E:\Visual Studio Projects\iLoveYou\iLoveYou\obj\Debug\iLoveYou.iLoveYouForm.resources
